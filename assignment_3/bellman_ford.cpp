@@ -9,7 +9,7 @@ using namespace std;
 
 
 int main() {
-    /* Read input from STDIN. Print output to STDOUT */
+    // Read input from STDIN. Print output to STDOUT
     int t, nodes, edges, u, v, w, s;
     cin>>t;//enter number of test cases
     for(int l=0;l<t;l++){
